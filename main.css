@@ -1,0 +1,42 @@
+* {
+    margin: 0 auto;
+
+}
+body {
+    
+    position: relative;
+}
+form {
+    position: absolute;
+    top: 214px;
+    left: 763px;
+    
+    text-align: center;
+    width: 288px;
+    height: 235px;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+.text {
+    margin: 20px;
+}
+.sub {
+    margin: 20px;
+    padding: 0px 105px;
+}
+#firstName {
+    
+
+}
+#lastName {
+    margin: 10px;
+}
+
+.text {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:400;
+    font-style:normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
